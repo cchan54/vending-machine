@@ -1,0 +1,10 @@
+Title:
+
+When a [stakeholder] inserts money into the machine, it should prompt them to make a selection by pressing two numbers.
+
+Narrative:
+
+As the vendor, I want to make sure that the 
+
+Scenario:
+
