@@ -1,22 +1,26 @@
 module.exports = {
-  toonies: {
+  toonie: {
     value: 2,
-    quantity: 15
-  },
-  loonies: {
-    value: 1,
-    quantity: 12
-  },
-  quarters: {
-    value: 0.25,
-    quantity: 32
-  },
-  dimes: {
-    value: 0.1,
-    quantity: 10
-  },
-  nickels: {
-    value: 0.05,
     quantity: 25
+  },
+
+  loonie: {
+    quarter: 1,
+    quantity: 40
+  },
+
+  quarter: {
+    value: 0.25,
+    quantity: 80
+  },
+
+  dime: {
+    value: 0.1,
+    quantity: 100
+  },
+
+  nickel: {
+    value: 0.05,
+    quantity: 55
   }
 };

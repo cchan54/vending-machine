@@ -1,22 +1,19 @@
 module.exports = {
   a1: {
-    product: "coke",
-    quantity: 15,
-    price: 2
+    item: "iPhone",
+    price: 5,
+    quantity: 7
   },
+
   a2: {
-    product: "root beer",
-    quantity: 11,
-    price: 2
+    item: "iPad",
+    price: 4,
+    quantity: 5
   },
+
   a3: {
-    product: "powerade",
-    quantity: 1,
-    price: 2.5
-  },
-  a4: {
-    product: "protein shake",
-    quantity: 0,
-    price: 4
+    item: "iPod",
+    price: 3,
+    quantity: 9
   }
 };
